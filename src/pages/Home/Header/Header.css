@@ -1,0 +1,11 @@
+nav h1 {
+  font-family: "Audiowide", cursive;
+}
+
+nav ul li {
+  transition: all ease-in .3s;
+}
+
+nav ul li:hover {
+  color: #00df9a;
+}
